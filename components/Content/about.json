@@ -1,0 +1,29 @@
+{
+  "metaTitle": "About Us | Los Angeles Septic & Toilet Rental Pros",
+  "metaDescription": "Family-owned septic and porta potty rental company in Los Angeles. 15+ years of experience delivering clean, fast, and dependable sanitation services.",
+  "bannerQuote": "",
+  "bannerImage": "banner.jpg",
+  "h1Banner": "About Los Angeles Portable Toilet Rental Pros",
+  "p1Banner": "",
+  "p2": "Los Angeles Portable Toilet Rental Pros is more than a rental company—we’re a team of locals who care about keeping our community clean, safe, and well-served. With over 15 years of hands-on experience, we’ve become a trusted name across LA for porta potty rentals, restroom trailers, and full-scale septic system services.<br/><br/>We work with event organizers, contractors, property managers, and homeowners to provide timely, affordable solutions for every type of project. Whether you need ADA-compliant restrooms for a large public event or same-day septic pumping in an emergency, our team is ready to deliver—clean, on time, and with zero hassle.<br/><br/>Our company is fully licensed, bonded, and insured, and every technician is background-checked and trained to meet California’s strict sanitation and environmental standards.",
+  "h2Image": "mobile-portable-outdoor-restroom-toilet-is-at-a-co.jpg",
+  "missionSection": [
+    {
+      "title": "Our Mission",
+      "description": "To deliver fast, affordable, and hygienic site sanitation services that help our clients stay compliant, comfortable, and stress-free—no matter the size of the job."
+    },
+    {
+      "title": "Our Vision",
+      "description": "To lead the industry in customer satisfaction, innovation, and environmental responsibility by offering clean, modern equipment and a people-first service model."
+    },
+    {
+      "title": "Our Promise",
+      "description": "We stand behind our work. Every unit is sanitized, every job is double-checked, and every client is treated with the respect they deserve. You call—we show up, ready."
+    }
+  ],
+  "areaweserveSection": {
+    "description": "We serve all across the Meridian",
+    "linkText": "Check our Fence service locations here.",
+    "link": "/areas-we-serve"
+  }
+}
