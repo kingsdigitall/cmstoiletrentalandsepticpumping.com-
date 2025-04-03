@@ -74,8 +74,79 @@ export default function SubdomainPage({ params }: SubdomainPageProps) {
     .filter((key) => key !== State)
     .map((key) => cityData[key]);
   // console.log(ContentData)
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    name: `${ContactInfo.name}`,
+    image:
+      `${ContactInfo.baseUrl}_next/image/?url=%2Flogo.png&w=1080&q=75` || "",
+    "@id": `${ContactInfo.baseUrl}`,
+    url: `${ContactInfo.baseUrl}`,
+    telephone: `${ContactInfo.No}`,
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: ContactInfo.address.split(",")[0].trim(),
+      addressLocality: ContactInfo.location.split(",")[0].trim(),
+      addressRegion: ContactInfo.location.split(",")[1]?.trim(),
+      postalCode: ContactInfo.zipCode.trim(),
+      addressCountry: "United States",
+    },
+    areaServed: {
+      "@type": "Place",
+      name: `${ContentData?.name}`,
+      address: {
+        "@type": "PostalAddress",
+        postalCode: `${ContentData?.zipCodes.split("|")[0]}`,
+        addressRegion: `${State.split("-").pop()?.toUpperCase()}`,
+        addressCountry: "United States",
+      },
+    },
+    priceRange: "$$",
+    openingHoursSpecification: [
+      {
+        "@type": "OpeningHoursSpecification",
+        dayOfWeek: [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+        ],
+        opens: "10:30",
+        closes: "12:32",
+      },
+    ],
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue: 4,
+      reviewCount: 79,
+    },
+    potentialAction: {
+      "@type": "ReserveAction",
+      target: {
+        "@type": "EntryPoint",
+        urlTemplate: "#book_now",
+        inLanguage: "en-US",
+        actionPlatform: [
+          "http://schema.org/DesktopWebPlatform",
+          "http://schema.org/MobileWebPlatform",
+        ],
+      },
+      result: {
+        "@type": "Reservation",
+        name: `https://${ContactInfo.host}#Appointment`,
+      },
+    },
+  };
   return (
     <div className="mx-auto max-w-[2100px] overflow-hidden">
+       <section>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+      </section>
       <Banner
         h1={`${ContentData.h1Banner} ${ContentData.zipCodes && ContentData.zipCodes.split("|")[0]}`}
         image={ContentData.bannerImage}
