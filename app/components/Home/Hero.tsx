@@ -19,7 +19,7 @@ const Hero = () => {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    name: "Middletown Water Heater Pros",
+    name: `${ContactInfo.name}`,
     image:
       "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/logo.png?updatedAt=1744090675253",
     "@id": `${ContactInfo.baseUrl}`,
