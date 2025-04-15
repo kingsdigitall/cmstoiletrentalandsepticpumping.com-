@@ -43,7 +43,7 @@ const page = ({ params }: { params: { services: string } }) => {
       "name": `${ContactInfo.name}`,
       "image": {
         "@type": "ImageObject",
-        "url": `${ContactInfo.baseUrl}_next/image/?url=%2Flogo.png&w=1080&q=75` || "",
+        "url": "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/logo.png?updatedAt=1744090675253",
       },
       "telephone": `${ContactInfo.No}`,
       "priceRange": "$$",
@@ -84,7 +84,7 @@ const page = ({ params }: { params: { services: string } }) => {
         "name": `${ContactInfo.name}`,
         "image": {
           "@type": "ImageObject",
-          "url": `${ContactInfo.baseUrl}_next/image/?url=%2Flogo.png&w=1080&q=75` || ""
+          "url": "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/logo.png?updatedAt=1744090675253"
         },
         "telephone": `${ContactInfo.No}`,
         "address": {
@@ -148,7 +148,7 @@ const page = ({ params }: { params: { services: string } }) => {
           </div>
           <div className="w-full pt-10">
             <Image
-              src={`/${serviceData.imageUrl}`}
+              src={`${serviceData.imageUrl}`}
               className="h-[30rem] rounded-lg border object-cover shadow-lg"
               alt="Service Image"
               width={1000}

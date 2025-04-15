@@ -35,7 +35,7 @@ export function generateMetadata({ params }: SubdomainPageProps) {
   const ContentData = cityData[State];
   return {
     title: ContentData?.metaTitle,
-    description: ContentData?.metaDescription,
+    description: `${ContentData?.metaDescription.replace("Call now!",`Call us at ${ContactInfo.No}`)}.`,
     alternates: {
       canonical: `${ContactInfo.baseUrl}areas-we-serve/${State}/`,
     },
@@ -79,7 +79,7 @@ export default function SubdomainPage({ params }: SubdomainPageProps) {
     "@type": "LocalBusiness",
     name: `${ContactInfo.name}`,
     image:
-      `${ContactInfo.baseUrl}_next/image/?url=%2Flogo.png&w=1080&q=75` || "",
+      "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/logo.png?updatedAt=1744090675253",
     "@id": `${ContactInfo.baseUrl}`,
     url: `${ContactInfo.baseUrl}`,
     telephone: `${ContactInfo.No}`,
@@ -151,7 +151,7 @@ export default function SubdomainPage({ params }: SubdomainPageProps) {
         h1={`${ContentData.h1Banner} ${ContentData.zipCodes && ContentData.zipCodes.split("|")[0]}`}
         image={ContentData.bannerImage}
         header={ContentData.bannerQuote}
-        p1={ContentData.metaDescription}
+        p1={`${ContentData?.metaDescription.replace("Call now!",`Call us at ${ContactInfo.No}`)}.`}
       />
       {/* Section 1 */}
       {/* <p>{subDomain.map((item:any)=>(
@@ -162,9 +162,9 @@ export default function SubdomainPage({ params }: SubdomainPageProps) {
           <Image
             height={1000}
             width={1000}
-            src={`/${ContentData?.h2Image}`}
+            src={`${ContentData?.h2Image}`}
             className="h-full w-full  rounded-lg object-cover shadow-lg"
-            alt={ContentData?.h2Image.split(".")[0]}
+            alt={ContentData?.h2Image.split("/").pop()?.split(".")[0] || "image"}
           />
         </div>
           <div className=" flex w-full flex-col gap-3 ">
@@ -236,9 +236,9 @@ export default function SubdomainPage({ params }: SubdomainPageProps) {
                     className=" 1 rounded-md border p-4 shadow-md "
                     key={index}
                   >
-                    <div className="1 text-center text-xl font-bold text-minor">
+                    <h3 className="1 text-center text-xl font-bold text-minor">
                       {item.title}
-                    </div>
+                    </h3>
                     <div className="mt-4 text-lg">{item.description}</div>
                   </div>
                 );

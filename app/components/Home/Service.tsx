@@ -34,7 +34,6 @@ const Service = ({ value = "" }: any) => {
     <h2 className="text-first text-center text-3xl font-bold text-main">
       {data.title}
     </h2>
-
     <div
       className="mt-4 px-4  text-center "
       dangerouslySetInnerHTML={{ __html: data.p }}
@@ -49,11 +48,11 @@ const Service = ({ value = "" }: any) => {
             <div className="h-14 w-14 overflow-hidden rounded-full object-cover md:h-full md:w-full md:rounded-none">
               <Image
                 aria-hidden="true"
-                src={`/${items.imageUrl}`}
+                src={`${items.imageUrl}`}
                 alt={
-                  items.imageUrl.split(".")[0]
+                  items.imageUrl.split("/").pop()?.split(".")[0] || "image"
                 }
-                title={items.imageUrl.split(".")[0]}
+                title={items.imageUrl.split("/").pop()?.split(".")[0] || "image"}
                 width="900"
                 height="550"
                 className="h-14 w-14 object-cover md:h-full md:w-full "
@@ -63,9 +62,9 @@ const Service = ({ value = "" }: any) => {
           <h3
             className={`1  mt-4 w-[75%] justify-start gap-2 px-4 text-lg font-bold text-main  md:flex  md:text-xl`}
           >
-            <MdDoubleArrow className="text-bold hidden text-2xl " />
+            <MdDoubleArrow className="text-bold hidden text-3xl md:block" />
             <Link href={`/services/${items.slug}`}>
-            {items.title.split("in [location]").join("")}
+              {items.title.split("in [location]").join(" ")}
             </Link>
           </h3>
           <div

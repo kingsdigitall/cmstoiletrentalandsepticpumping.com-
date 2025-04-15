@@ -19,9 +19,9 @@ const Hero = () => {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    name: "Middletown Water Heater Pros",
+    name: `${ContactInfo.name}`,
     image:
-      `${ContactInfo.baseUrl}_next/image/?url=%2Flogo.png&w=1080&q=75` || "",
+      "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/logo.png?updatedAt=1744090675253",
     "@id": `${ContactInfo.baseUrl}`,
     url: `${ContactInfo.baseUrl}`,
     telephone: `${ContactInfo.No}`,
@@ -101,10 +101,10 @@ const Hero = () => {
             <Image
               height={10000}
               width={10000}
-              src={`/${homeData.h2Image}`}
+              src={`${homeData.h2Image}`}
               className=" h-full w-full rounded-lg object-cover shadow-lg"
-              alt={homeData.h2Image.split(".")[0]}
-              title={homeData.h2Image.split(".")[0]}
+              alt={homeData.h2Image.split("/").pop()?.split(".")[0] || "image"}
+              title={homeData.h2Image.split("/").pop()?.split(".")[0] || "image"}
             />
           </div>
         </div>
@@ -123,10 +123,10 @@ const Hero = () => {
             <Image
               height={10000}
               width={10000}
-              src={`/${homeData.h3Image}`}
+              src={`${homeData.h3Image}`}
               className=" h-full w-full rounded-lg object-cover shadow-lg"
-              alt={homeData.h3Image.split(".")[0]}
-              title={homeData.h3Image.split(".")[0]}
+              alt={homeData.h3Image.split("/").pop()?.split(".")[0] || "image"}
+              title={homeData.h3Image.split("/").pop()?.split(".")[0] || "image"}
             />
           </div>
           <div className="flex flex-col justify-center    ">
