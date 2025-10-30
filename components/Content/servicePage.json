@@ -2,8 +2,146 @@
       "metaTitle": "Expert Roof Repair Services in Oceanside, CA ",
       "metaDescription": "We fix roof leaks, damaged shingles, flashing issues & storm damage. Fast and affordable roof repair you can count on. Call us at (213) 727-0204.",
       "bannerQuote": "",
-      "bannerImage": "banner.jpg",
+      "bannerImage": "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/banner.jpg",
       "h1Banner": "Professional Roof Repair Services You Can Trust",
-      "p1Banner":"",
-      "serviceTitle":""
+      "p1Banner": "",
+      "serviceTitle": "",
+      "serviceData": {
+            "title": "Services We Offer",
+            "p": "From outdoor events to large-scale construction projects, we provide reliable portable sanitation and septic services that keep your site clean, safe, and comfortable. Every rental is delivered on time, serviced regularly, and backed by friendly, dependable support you can count on.",
+            "lists": [
+                  {
+                        "title": "Standard Portable Toilet Rentals in [location]",
+                        "description": "Call us at (213) 727-0204. Affordable standard porta potty rentals in [location] for any site or event. Reserve your portable toilet today!",
+                        "h2": "Standard Portable Toilet Rentals in [location] for Jobsites and Public Use",
+                        "p2": "If you need a no-hassle, affordable restroom solution for outdoor events or construction sites in [location], our standard portable toilet rentals are the perfect fit. These rugged, single-unit restrooms are designed to handle high traffic and tough conditions. Each unit comes stocked with toilet paper and hand sanitizer, making them ideal for both short-term and long-term use. We handle everything—delivery, setup, weekly cleaning, and pickup—so you can focus on your project or event. Whether it's a one-day festival or a 6-month build site, we scale with your needs. Our team ensures every unit is clean, well-ventilated, and placed exactly where it's needed most. You won't find a more reliable setup for keeping your location compliant and your guests comfortable.",
+                        "h3": "Reliable, Clean, and Ready When You Are",
+                        "p3": "Our standard portable toilets are designed for convenience and comfort. We guarantee timely service, routine cleaning, and a spotless experience for every use.",
+                        "seoContent": "<h2>Standard Portable Toilets in [location]</h2><p>Get reliable, affordable portable toilet rentals in [location] for job sites and events. Clean, stocked, and serviced weekly. Call (213) 727-0204 to schedule delivery.</p>",
+                        "slug": "standard-portable-toilet-rentals",
+                        "imageUrl": "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/bio-public-wc-at-a-park-locked-portable-chemica.jpg?updatedAt=1744090672096"
+                  },
+                  {
+                        "title": "Deluxe Flushable Portable Restrooms in [location]",
+                        "description": "Call us at (213) 727-0204. Deluxe flushable restrooms in [location] with sinks and privacy. Book your upgraded portable toilet now!",
+                        "h2": "Deluxe Flushable Portable Restrooms in [location] with Built-In Comfort",
+                        "p2": "Take your outdoor restroom experience up a notch with our deluxe flushable portable restrooms in [location]. These upgraded units include foot-pump flushing systems, built-in handwashing stations, mirrors, and interior lighting—offering the cleanliness and comfort of an indoor restroom. Perfect for weddings, long-term projects, or upscale events, these restrooms create a premium experience for guests and crews alike. Each unit is deeply cleaned, sanitized, and stocked before delivery, with servicing available as needed. Functional, private, and professional—these units set the standard for portable comfort.",
+                        "h3": "A Step Above the Standard",
+                        "p3": "Add convenience and sophistication to your site or event. Our deluxe units feature flushing systems and sinks, offering a clean, refreshing restroom experience anywhere.",
+                        "seoContent": "<h2>Deluxe Portable Restrooms in [location]</h2><p>Rent deluxe flushable portable restrooms in [location] with built-in sinks and lighting. Ideal for events or long-term sites. Call (213) 727-0204 to book.</p>",
+                        "slug": "deluxe-flushable-portable-restrooms",
+                        "imageUrl": "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/experienced-housekeeping-supervisor-checking-water-.jpg?updatedAt=1744090671265"
+                  },
+                  {
+                        "title": "ADA-Compliant Handicap Portable Restrooms in [location]",
+                        "description": "Call us at (213) 727-0204. ADA-compliant restrooms in [location] with easy access for all guests. Ensure accessibility—call us now!",
+                        "h2": "ADA-Compliant Handicap Portable Restrooms in [location] That Meet Every Need",
+                        "p2": "Accessibility should never be an afterthought. Our ADA-compliant portable restrooms in [location] are built to meet federal standards while ensuring safety and comfort. Each unit has a wide entry, flat-floor access, interior handrails, and ample turning space for wheelchairs. Ideal for public events, schools, government projects, or community sites, these restrooms guarantee dignity and convenience for every guest. We handle placement, maintenance, and cleaning—ensuring accessibility and compliance from start to finish.",
+                        "h3": "Safe, Spacious, and Accessible",
+                        "p3": "Every guest deserves comfort. Our ADA-compliant restrooms provide easy access, stability, and privacy, making them suitable for all users.",
+                        "seoContent": "<h2>ADA Portable Restrooms in [location]</h2><p>Provide comfort and accessibility with ADA portable restrooms in [location]. Spacious, clean, and fully compliant. Call (213) 727-0204 to reserve today.</p>",
+                        "slug": "ada-compliant-handicap-portable-restrooms",
+                        "imageUrl": "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/portable-restroom-designed-for-disabled-wheelchair.jpg?updatedAt=1744090666853"
+                  },
+                  {
+                        "title": "Luxury Restroom Trailer Rentals in [location]",
+                        "description": "Call us at (213) 727-0204. Luxury restroom trailers in [location] for weddings, parties & VIP events. Rent your high-end restroom trailer today!",
+                        "h2": "Luxury Restroom Trailer Rentals in [location] for High-End Events",
+                        "p2": "Make your event unforgettable with our luxury restroom trailers in [location]. These units feature private stalls, running water, climate control, elegant lighting, and even music—providing a premium experience your guests will appreciate. Perfect for weddings, VIP gatherings, corporate events, or film sets, our trailers are meticulously maintained and ready to impress. Setup is quick and discreet, ensuring minimal disruption and maximum comfort.",
+                        "h3": "Luxury Comfort, Delivered Anywhere",
+                        "p3": "Our restroom trailers redefine outdoor elegance with modern finishes, clean interiors, and full amenities—turning every event into a five-star experience.",
+                        "seoContent": "<h2>Luxury Restroom Trailers in [location]</h2><p>Rent luxury restroom trailers in [location] for weddings, corporate events, and VIP functions. Premium comfort and style. Call (213) 727-0204 to book now.</p>",
+                        "slug": "luxury-restroom-trailer-rentals",
+                        "imageUrl": "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/bathroom-with-double-sinks-silver-faucets-vanity-u.jpg?updatedAt=1744090670785"
+                  },
+                  {
+                        "title": "High-Rise Portable Toilets in [location]",
+                        "description": "Call us at (213) 727-0204. High-rise portable toilets for multi-story construction projects in [location]. Schedule your delivery now!",
+                        "h2": "High-Rise Portable Toilets in [location] Built for Vertical Construction Access",
+                        "p2": "Our high-rise portable toilets in [location] are built for construction at any height. Designed for cranes or elevators, these compact units make sanitation convenient for upper-floor work zones. Durable materials, easy servicing, and small footprints make them a perfect fit for tight spaces and busy crews. Keep productivity high and downtime low with restrooms right where your workers need them.",
+                        "h3": "Efficient Design for Elevated Worksites",
+                        "p3": "Our crane-liftable units save time, prevent site disruption, and keep your crew close to their tasks—ensuring comfort and efficiency on every level.",
+                        "seoContent": "<h2>High-Rise Portable Toilets in [location]</h2><p>Portable toilets for multi-story construction in [location]. Compact, crane-liftable, and durable. Call (213) 727-0204 for delivery today.</p>",
+                        "slug": "high-rise-portable-toilets",
+                        "imageUrl": "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/trucker-performing-maintenance-on-the-rear-of-a-re.jpg?updatedAt=1744090666942"
+                  },
+                  {
+                        "title": "Portable Handwashing Stations in [location]",
+                        "description": "Call us at (213) 727-0204. Portable handwashing stations in [location] with soap & water. Keep your site sanitary—rent now!",
+                        "h2": "Portable Handwashing Stations in [location] for Clean, On-Site Hygiene",
+                        "p2": "Our portable handwashing stations in [location] promote safety and hygiene at any site or event. Each unit comes fully equipped with hands-free foot-pump sinks, soap, paper towels, and freshwater tanks. They’re perfect for food areas, construction zones, and festivals. Simple to set up, easy to use, and serviced regularly—they keep your location compliant and your visitors healthy.",
+                        "h3": "Hygiene Made Easy",
+                        "p3": "From food vendors to construction crews, everyone benefits from easy access to clean water. Our units support sanitation standards without needing plumbing.",
+                        "seoContent": "<h2>Portable Handwashing Stations in [location]</h2><p>Keep your site sanitary with portable handwashing stations in [location]. Easy setup and full hygiene solutions. Call (213) 727-0204 to order.</p>",
+                        "slug": "portable-handwashing-stations",
+                        "imageUrl": "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/hand-wash-in-park.png?updatedAt=1744090672342"
+                  },
+                  {
+                        "title": "Construction Site Portable Toilets in [location]",
+                        "description": "Call us at (213) 727-0204. Heavy-duty portable toilets for construction in [location]. Weekly service included—book your unit today!",
+                        "h2": "Construction Site Portable Toilets in [location] That Keep Crews Productive",
+                        "p2": "Our construction site portable toilets in [location] are engineered for heavy use. They feature non-slip floors, reinforced bases, and reliable ventilation—built to perform in all weather conditions. Weekly servicing, fast delivery, and bulk order options make them perfect for builders, contractors, and developers who need dependable sanitation.",
+                        "h3": "Durable Units Built for Worksites",
+                        "p3": "From highways to housing projects, our construction restrooms handle it all. Strong, clean, and OSHA-compliant—delivered on time, every time.",
+                        "seoContent": "<h2>Construction Portable Toilets in [location]</h2><p>Rent construction portable toilets in [location]. Rugged, reliable, and serviced weekly. Call (213) 727-0204 for bulk orders or fast delivery.</p>",
+                        "slug": "construction-site-portable-toilets",
+                        "imageUrl": "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/mobile-portable-outdoor-restroom-toilet-is-at-a-co.jpg?updatedAt=1744090665694"
+                  },
+                  {
+                        "title": "Event Portable Toilet Rentals in [location]",
+                        "description": "Call us at (213) 727-0204. Event porta potty rentals in [location] for weddings, concerts & festivals. Reserve clean restrooms now!",
+                        "h2": "Event Portable Toilet Rentals in [location] That Handle Big Crowds with Ease",
+                        "p2": "Our event portable toilet rentals in [location] make crowd management simple. Choose from standard, flushable, or ADA units, plus handwashing stations for complete hygiene coverage. Each restroom is sanitized, deodorized, and stocked before delivery. We coordinate setup and pickup around your event schedule, offering optional mid-event cleaning for multi-day gatherings.",
+                        "h3": "Clean, Comfortable, and Crowd-Ready",
+                        "p3": "Whether it’s a music festival or local fair, our event toilets provide convenience and cleanliness that guests notice and appreciate.",
+                        "seoContent": "<h2>Event Portable Toilets in [location]</h2><p>Book event-ready portable toilets in [location]. Perfect for festivals, fairs, and outdoor weddings. Call (213) 727-0204 for clean, reliable rentals.</p>",
+                        "slug": "event-portable-toilet-rentals",
+                        "imageUrl": "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/one-caucasian-builder-working-on-a-outside-smal.jpg?updatedAt=1744090666127"
+                  },
+                  {
+                        "title": "Portable Shower Trailers in [location]",
+                        "description": "Call us at (213) 727-0204. Mobile shower trailer rentals in [location] with hot water & privacy. Perfect for events—book now!",
+                        "h2": "Portable Shower Trailers in [location] for Camps, Sites, and Emergency Relief",
+                        "p2": "Our portable shower trailers in [location] offer clean, private, and comfortable bathing facilities wherever you need them. Each trailer features multiple stalls, hot water, dressing areas, and ventilation for a home-like experience. Ideal for long-term construction projects, camps, or disaster relief sites, they keep teams refreshed and productive.",
+                        "h3": "Private Showers for Every Setting",
+                        "p3": "We make hygiene simple with portable showers that meet high standards of comfort, safety, and sanitation—ready whenever you are.",
+                        "seoContent": "<h2>Portable Shower Trailers in [location]</h2><p>Rent mobile shower trailers in [location] with private stalls and hot water. Perfect for camps, projects, and relief efforts. Call (213) 727-0204 to reserve.</p>",
+                        "slug": "portable-shower-trailers",
+                        "imageUrl": "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/outdoor-shower-at-public-beach.jpg?updatedAt=1744090665833"
+                  },
+                  {
+                        "title": "Eco-Friendly/Solar-Powered Portable Toilets in [location]",
+                        "description": "Call us at (213) 727-0204. Eco-friendly solar porta potties in [location] for green events & sites. Go sustainable—rent yours today!",
+                        "h2": "Eco-Friendly/Solar-Powered Portable Toilets in [location] for Sustainable Sites",
+                        "p2": "Our eco-friendly portable toilets in [location] use solar power and waterless technology to reduce waste and energy use. Built from recyclable materials, they include efficient lighting, odor control, and low-impact sanitation systems. Perfect for environmentally conscious projects, festivals, and parks, they provide comfort while supporting sustainability goals.",
+                        "h3": "Clean Comfort That Protects the Planet",
+                        "p3": "Sustainable, modern, and practical—our solar toilets combine eco-awareness with everyday convenience for green-certified spaces and events.",
+                        "seoContent": "<h2>Eco-Friendly Portable Toilets in [location]</h2><p>Rent solar-powered portable toilets in [location]. Sustainable, odor-free, and energy efficient. Call (213) 727-0204 to book your eco-friendly unit.</p>",
+                        "slug": "eco-friendly-solar-powered-portable-toilets",
+                        "imageUrl": "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/several-closed-kiosks-in-a-row.jpg?updatedAt=1744090786720"
+                  },
+                  {
+                        "title": "Septic Tank Pumping in [location]",
+                        "description": "Call us at (213) 727-0204. Septic tank pumping in [location] to avoid backups & smells. Schedule your septic service today!",
+                        "h2": "Septic Tank Pumping in [location] to Prevent Costly System Failures",
+                        "p2": "Keep your septic system in top condition with our professional pumping service in [location]. We remove sludge buildup safely using high-powered vacuum trucks, preventing backups and unpleasant odors. Our team follows all environmental regulations and provides documentation for compliance. Routine pumping keeps your system efficient and extends its life.",
+                        "h3": "Prevent Backups Before They Start",
+                        "p3": "Regular septic maintenance protects your home and investment. Our prompt service ensures your system stays clean, safe, and reliable year-round.",
+                        "seoContent": "<h2>Septic Tank Pumping in [location]</h2><p>Professional septic tank pumping in [location]. Prevent odors, clogs, and system damage. Call (213) 727-0204 to schedule service.</p>",
+                        "slug": "septic-tank-pumping",
+                        "imageUrl": "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/machine-for-for-cleaning-blocked-drains-sewer-well.jpg?updatedAt=1744090677597"
+                  },
+                  {
+                        "title": "Septic Tank Cleaning in [location]",
+                        "description": "Call us at (213) 727-0204. Thorough septic tank cleaning in [location] for efficient system flow. Call now for maintenance!",
+                        "h2": "Septic Tank Cleaning in [location] That Keeps Everything Flowing Smoothly",
+                        "p2": "Beyond pumping, our septic tank cleaning service in [location] removes built-up grime and residue from tank walls and internal parts. We use specialized tools to ensure every surface is cleaned, improving system performance and preventing blockages. Ideal for older systems or those with long gaps between services.",
+                        "h3": "Deep Cleaning for Long-Term Efficiency",
+                        "p3": "A clean system runs better and lasts longer. Our septic cleaning removes buildup and restores full function to your wastewater system.",
+                        "seoContent": "<h2>Septic Tank Cleaning in [location]</h2><p>Complete septic tank cleaning in [location]. Improve flow, prevent odors, and extend lifespan. Call (213) 727-0204 for expert maintenance.</p>",
+                        "slug": "septic-tank-cleaning",
+                        "imageUrl": "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/machine-for-cleaning-blocked-drains-and-sewers.jpg?updatedAt=1744090676452"
+                  }
+            ]
+      }
 }
