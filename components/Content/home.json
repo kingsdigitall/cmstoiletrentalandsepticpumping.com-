@@ -2,7 +2,7 @@
   "metaTitle": "Portable Toilet Rentals in Los Angeles, CA 90001",
   "metaDescription": "Premium porta potty rentals & expert septic services in Los Angeles, CA. We offer same-day delivery, free quotes, and spotless sanitation every time. Call us at (213) 727-0204.", 
   "bannerQuote": "",
-  "bannerImage": "banner.jpg",
+  "bannerImage": "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/banner.jpg",
   "h1Banner": "Affordable Portable Toilet Rentals in Los Angeles, CA 90001",
   "p1Banner": "Affordable plumbing and water heater repairs in Roseville. Get dependable service from local experts who care about your home. Call Us Immediately!",
   "h2": "On-Site Comfort Meets Convenience in Los Angeles",
@@ -38,22 +38,211 @@
       }
     ]
   },
+  "affordableWidget": {
+    "title": "Affordable Portable Sanitation Solutions",
+    "description": "We make portable toilet rentals in Los Angeles simple, clean, and hassle-free. Here's our commitment to you:",
+    "ctaText": "Get a Quote",
+    "cards": [
+      {
+        "title": "Easy Rental Process",
+        "description": "One call gets you set up. We handle delivery, maintenance, and pickup with minimal disruption."
+      },
+      {
+        "title": "Health Code Compliant",
+        "description": "All units meet or exceed LA County health regulations and ADA requirements where needed."
+      },
+      {
+        "title": "24/7 Support Team",
+        "description": "Questions or concerns? Our local team is always available to respond quickly and solve issues."
+      }
+    ]
+  },
+  "processWidget": {
+      "title": "Simple 4-Step Rental Process",
+      "description": "",
+      "steps": [
+        {
+          "title": "Step 1: Quote & Scheduling",
+          "description": "Tell us your needs and timeline - we'll provide a clear, detailed quote."
+        },
+        {
+          "title": "Step 2: Site Assessment",
+          "description": "We'll determine the best placement and access points for smooth service."
+        },
+        {
+          "title": "Step 3: Delivery & Setup",
+          "description": "Units arrive clean, stocked, and properly positioned at your location."
+        },
+        {
+          "title": "Step 4: Regular Maintenance",
+          "description": "We handle cleaning, restocking, and repairs throughout your rental period."
+        }
+      ]
+    },
+  "hourCtaWidget": {
+    "title": "Need Portable Toilets or Septic Help Fast? Call Now."
+},
   "h3": "About Us – Built Locally, Backed by Service",
   "p3": "We’re a family-owned, Los Angeles-based company that values hard work, transparency, and getting the job done right. Our roots are in the community—from servicing neighborhood events to long-term commercial builds—we’ve grown by earning trust, not chasing volume.<br/><br/>With a background in both septic and sanitation, our team understands how to meet health regulations, avoid delays, and deliver services that leave a lasting impression. Our mission is simple: keep your project running clean, safe, and on time—without the headaches.",
   "h3Image": "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/portable-restroom-on-a-new-structure-near-a-new.jpg?updatedAt=1744090665446",
   "faq": [
-    {
-      "ques": "How long does it take to install a fence?",
-      "ans": "Installation timelines vary depending on the size and complexity of the project, but most fences can be completed within a few days. With our expertise and commitment to excellence, Simcoe Fences ensures your project is completed on time, tailored to its specific requirements."
-    }
-  ],
-  "testimonials":[
-    {
-      "id": 1,
-      "name": "",
-      "content":
-        "When we decided to replace our old wooden fence, we didn’t know where to start. Simcoe Fences guided us through every step, from selecting the perfect design to the final installation. Now our backyard looks amazing."
-    }
-  ],
+  {
+    "FAQ": "What types of portable toilets do you offer in [location]?",
+    "Answer": "We offer standard units, deluxe flushable toilets, ADA-compliant restrooms, and luxury restroom trailers to meet all needs in [location]."
+  },
+  {
+    "FAQ": "How often are portable toilets serviced in [location]?",
+    "Answer": "In [location], we typically service units weekly, but we can adjust frequency based on your site's needs and usage level."
+  },
+  {
+    "FAQ": "Can I rent portable toilets for a single-day event in [location]?",
+    "Answer": "Yes, we offer flexible rental terms in [location], including single-day, weekend, or long-term rentals for events and job sites."
+  },
+  {
+    "FAQ": "Do you provide handwashing stations with portable toilet rentals in [location]?",
+    "Answer": "Absolutely. Handwashing stations with soap, water, and paper towels are available and can be bundled with your portable toilet rental in [location]."
+  },
+  {
+    "FAQ": "Are your portable toilets suitable for construction sites in [location]?",
+    "Answer": "Yes, we supply rugged, durable units specifically designed for construction sites in [location] with weekly maintenance included."
+  },
+  {
+    "FAQ": "How do I know how many portable toilets I need for an event in [location]?",
+    "Answer": "We help you estimate the number of units based on your expected attendance and event duration in [location]."
+  },
+  {
+    "FAQ": "What does your septic tank pumping service include in [location]?",
+    "Answer": "Our septic tank pumping in [location] includes sludge removal, full system check, and responsible waste disposal in compliance with regulations."
+  },
+  {
+    "FAQ": "How often should I schedule septic tank pumping in [location]?",
+    "Answer": "Most homes in [location] require septic pumping every 3-5 years, depending on tank size and household usage."
+  },
+  {
+    "FAQ": "Can you install a new septic system in [location]?",
+    "Answer": "Yes, we handle full septic system installations in [location], including permits, soil testing, and complete setup."
+  },
+  {
+    "FAQ": "What are signs that I need septic tank cleaning in [location]?",
+    "Answer": "Slow drains, bad odors, gurgling pipes, or pooling water in [location] may indicate your septic tank needs immediate cleaning."
+  },
+  {
+    "FAQ": "Do you offer emergency septic services in [location]?",
+    "Answer": "Yes, we provide 24/7 emergency septic services in [location] for backups, overflows, or other urgent issues."
+  },
+  {
+    "FAQ": "Is your portable toilet service environmentally friendly in [location]?",
+    "Answer": "We use eco-safe chemicals, efficient water use, and solar-powered units when available to reduce environmental impact in [location]."
+  },
+  {
+    "FAQ": "What areas around [location] do you serve for septic and toilet rentals?",
+    "Answer": "We serve all neighborhoods in and around [location], including commercial, residential, and rural properties."
+  },
+  {
+    "FAQ": "Can I schedule both septic service and toilet rental in one call in [location]?",
+    "Answer": "Absolutely. We offer bundled services in [location] to streamline your sanitation needs with one call and one team."
+  }
+],
+  "reviews":[
+  {
+    "Review": "At our festival in [location], we relied on their construction site toilet services. Couldn't be happier with how it turned out."
+  },
+  {
+    "Review": "Our septic tank was overflowing in [location], so we called for grease trap cleaning. The team was prompt, professional, and handled everything smoothly."
+  },
+  {
+    "Review": "We couldn't find a reliable vendor in [location] until we tried handwashing station rentals. Guests kept complimenting how clean and accessible the restrooms were."
+  },
+  {
+    "Review": "We were hosting a large wedding in [location] and needed septic tank installation. The team was prompt, professional, and handled everything smoothly."
+  },
+  {
+    "Review": "We were hosting a large wedding in [location] and needed septic tank pumping. We'll definitely stick with them for future needs."
+  },
+  {
+    "Review": "Our restaurant in [location] was overdue for handwashing station rentals. Couldn't be happier with how it turned out."
+  },
+  {
+    "Review": "For our construction site in [location], we chose handwashing station rentals. They handled it efficiently, no mess left behind."
+  },
+  {
+    "Review": "I run a mobile crew in [location] and ordered drain field repair. Guests kept complimenting how clean and accessible the restrooms were."
+  },
+  {
+    "Review": "We were hosting a large wedding in [location] and needed portable shower trailer. They handled it efficiently, no mess left behind."
+  },
+  {
+    "Review": "We were planning a last-minute event in [location] and urgently needed standard portable toilet rentals. We'll definitely stick with them for future needs."
+  },
+  {
+    "Review": "For our construction site in [location], we chose handwashing station rentals. Guests kept complimenting how clean and accessible the restrooms were."
+  },
+  {
+    "Review": "When our system backed up during a party in [location], we trusted standard portable toilet rentals. It was hassle-free, clean, and truly reliable."
+  },
+  {
+    "Review": "For our construction site in [location], we chose septic system inspection. We'll definitely stick with them for future needs."
+  },
+  {
+    "Review": "At our festival in [location], we relied on their high-rise portable toilets. Couldn't be happier with how it turned out."
+  },
+  {
+    "Review": "I run a mobile crew in [location] and ordered standard portable toilet rentals. Couldn't be happier with how it turned out."
+  },
+  {
+    "Review": "We were planning a last-minute event in [location] and urgently needed event toilet rental. It was hassle-free, clean, and truly reliable."
+  },
+  {
+    "Review": "We couldn't find a reliable vendor in [location] until we tried event toilet rental. They handled it efficiently, no mess left behind."
+  },
+  {
+    "Review": "For our construction site in [location], we chose septic system inspection. We'll definitely stick with them for future needs."
+  },
+  {
+    "Review": "Our restaurant in [location] was overdue for construction site toilet services. Highly recommend their services to anyone in [location]."
+  },
+  {
+    "Review": "Our septic tank was overflowing in [location], so we called for eco-friendly portable toilet. Guests kept complimenting how clean and accessible the restrooms were."
+  },
+  {
+    "Review": "For our construction site in [location], we chose eco-friendly portable toilet. Great experience from booking to pickup."
+  },
+  {
+    "Review": "After days of dealing with foul smells, we finally booked event toilet rental. Couldn't be happier with how it turned out."
+  },
+  {
+    "Review": "We couldn't find a reliable vendor in [location] until we tried grease trap cleaning. It was hassle-free, clean, and truly reliable."
+  },
+  {
+    "Review": "Our septic tank was overflowing in [location], so we called for drain field repair. Highly recommend their services to anyone in [location]."
+  },
+  {
+    "Review": "For our construction site in [location], we chose them. Portable toilet made my place clean and effiecient. Highly recommend their services to anyone in [location]."
+  },
+  {
+    "Review": "For our construction site in [location], we chose event toilet rental. They handled it efficiently, no mess left behind."
+  },
+  {
+    "Review": "We were hosting a large wedding in [location] and needed septic tank cleaning. They handled it efficiently, no mess left behind."
+  },
+  {
+    "Review": "I run a mobile crew in [location] and ordered luxury restroom trailer rentals. Guests kept complimenting how clean and accessible the restrooms were."
+  },
+  {
+    "Review": "I run a mobile crew in [location] and ordered deluxe flushable portable restrooms. Couldn't be happier with how it turned out."
+  },
+  {
+    "Review": "Our septic tank was overflowing in [location], so we called for deluxe flushable portable restrooms. Couldn't be happier with how it turned out."
+  },
+  {
+    "Review": "He & His hand did a fantastic job for us. Last time our tank was pumped out was 1989. They fixed our problems and repaired what needed to be done. All within 2-3 hours after contacting them. Now that's Service!! Glenda S."
+  },
+  {
+    "Review": "The best plumbers! Professional, friendly, and clean. They remodeled our bathroom perfectly. Highly recommend!"
+  },
+  {
+    "Review": "Everything is great highly recommend this company people are doing a great job plumber know what there doing .clean and take care of everything very professional I will use them every time thank you!"
+  }
+],
   "mapLink": "https://maps.google.com/maps?q=Los+Angeles,+CA&+90001t=&z=11&ie=UTF8&iwloc=&output=embed"
 }

@@ -8,5 +8,11 @@
   "address": "1325 Palmetto St, Los Angeles, CA 90001, United States",
   "service": "Portable Toilet Rental Services",
   "location": "Los Angeles, CA",
-  "zipCode": "90001"
+  "zipCode": "90001",
+  "bannerImage": "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/banner.jpg?updatedAt=1744090666120",
+  "logoImage": "https://ik.imagekit.io/serviceproviders/cmstoiletrentalandsepticpumping.com/logo.png?updatedAt=1744090675253",
+  "favicon": "",
+  "googleAnalytics": "",
+  "main": "#f878b9",
+  "minor": "#c45f92"
 }
